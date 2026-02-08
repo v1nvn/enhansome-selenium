@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-07T00:47:43Z",
+            "last_commit": "2026-02-08T00:32:20Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 33983
+            "stars": 33986
           }
         },
         {
@@ -113,7 +113,7 @@
             "last_commit": "2026-01-12T09:23:16Z",
             "owner": "postmodern",
             "repo": "spidr",
-            "stars": 831
+            "stars": 832
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-02-07T12:12:41Z",
             "owner": "facebook",
             "repo": "php-webdriver",
-            "stars": 5211
+            "stars": 5208
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-02-04T17:02:40Z",
             "owner": "mherrmann",
             "repo": "selenium-python-helium",
-            "stars": 8210
+            "stars": 8209
           }
         },
         {
@@ -464,7 +464,7 @@
             "last_commit": "2025-11-18T22:15:43Z",
             "owner": "kubernetes",
             "repo": "examples",
-            "stars": 6536
+            "stars": 6538
           }
         },
         {
@@ -524,10 +524,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-07T00:47:43Z",
+            "last_commit": "2026-02-08T00:32:20Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 33983
+            "stars": 33986
           }
         },
         {
@@ -555,10 +555,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-07T00:47:43Z",
+            "last_commit": "2026-02-08T00:32:20Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 33983
+            "stars": 33986
           }
         },
         {
@@ -573,10 +573,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-02-07T00:47:43Z",
+            "last_commit": "2026-02-08T00:32:20Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 33983
+            "stars": 33986
           }
         },
         {
@@ -589,7 +589,7 @@
             "last_commit": "2026-01-09T10:50:31Z",
             "owner": "operasoftware",
             "repo": "operachromiumdriver",
-            "stars": 271
+            "stars": 270
           }
         }
       ],
@@ -770,10 +770,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:13:50.990Z",
+    "last_updated": "2026-02-08T04:25:09.956Z",
     "original_repository": "christian-bromann/awesome-selenium",
     "source_repository": "v1nvn/enhansome-selenium",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Selenium with stars"
   }
 }
